@@ -16,9 +16,8 @@ For a network backup issue, say whether you used a direct UNC path.
 If Rampartis offers **Export network backup diagnostics**, review the local
 export before sharing it. The app does not upload it automatically.
 
-## Please don't
+## Please protect your information
 
-- Keep backup contents, credentials, and private file paths out of reports.
-  A description or a redacted example is usually enough.
-- Don't post security vulnerabilities publicly — see
+- Don't include backup contents, credentials, or private file paths in support reports. A description or redacted example is usually enough.
+- Report security vulnerabilities privately using the instructions in
   [SECURITY.md](SECURITY.md) for the private route.
